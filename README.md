@@ -3,6 +3,8 @@
 You can use the [editor on GitHub](https://github.com/chanlinks/chanlinks.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+知乎：怎样使用Github？ 珊珊是个小太阳
+如何利用github打造博客专属域名
 
 ### Markdown
 
